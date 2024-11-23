@@ -2,6 +2,10 @@
 
 A lightweight UML editor designed to create, manage, and edit UML diagrams with ease. This project implements the core functionalities of a UML editor as specified in the requirement document.
 
+![image](https://github.com/BUBEE-Liao/UML-Editor/blob/main/UML.png)
+
+---
+
 ![image](https://github.com/BUBEE-Liao/UML-Editor/blob/main/view.jpg)
 
 ---
